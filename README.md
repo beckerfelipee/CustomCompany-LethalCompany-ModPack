@@ -1,5 +1,4 @@
 # Lethal Company Modpack
-## Great Company
 
 <img align="left" alt="newYear" height="125" width="130" src="https://cdn.discordapp.com/attachments/896421524200914954/1190790003555586189/OIG.vk2BIo9oPuzTtv-removebg-preview.png?ex=65a3149c&is=65909f9c&hm=4618ef2dbfebad714a6f818574753baf2e966b61a9c0aef150f0d902ecd678fa&">
 
