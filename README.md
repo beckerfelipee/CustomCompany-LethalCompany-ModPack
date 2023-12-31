@@ -33,8 +33,6 @@ How to Install BepInEx?
 
 3. Replace the existing BepInEx folder with the new one (in the zip file).
 
-    * <img height="25" width="150" src="https://cdn.discordapp.com/attachments/896421524200914954/1190816177962893425/Screenshot_2023-12-31_003650.png?ex=65a32cfd&is=6590b7fd&hm=6da31650072b5849ff9ee84bb72ed6e9ab94a7f176e34053921d4d4ffc188922&">
-
 ## Included Mods
 
 - **BetterSprayPaint** - More responsive and reliable painting
