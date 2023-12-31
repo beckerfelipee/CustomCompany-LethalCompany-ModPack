@@ -26,7 +26,7 @@ Make sure you have the BepInEx Mod Manager installed before downloading the modp
   
     * Find the latest Version and go to Assets.
 
-    * Download the ```GreatCompany.~version.zip``` file.
+    * Download the ```CustomCompany.~version.zip``` file.
 
 2. Open the game folder
    *  Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Lethal Company```
