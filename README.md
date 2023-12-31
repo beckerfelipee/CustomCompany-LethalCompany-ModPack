@@ -1,6 +1,6 @@
 # Lethal Company Modpack
 
-<img align="left" alt="newYear" height="130" width="130" src="https://cdn.discordapp.com/attachments/896421524200914954/1190790003555586189/OIG.vk2BIo9oPuzTtv-removebg-preview.png?ex=65a3149c&is=65909f9c&hm=4618ef2dbfebad714a6f818574753baf2e966b61a9c0aef150f0d902ecd678fa&">
+<img align="left" height="130" width="130" src="https://cdn.discordapp.com/attachments/896421524200914954/1190790003555586189/OIG.vk2BIo9oPuzTtv-removebg-preview.png?ex=65a3149c&is=65909f9c&hm=4618ef2dbfebad714a6f818574753baf2e966b61a9c0aef150f0d902ecd678fa&">
 
 Welcome to the GreatCompany Modpack for the game Lethal Company! This modpack has been carefully curated to enhance the gaming experience by adding a variety of mods that complement and expand upon the features of Lethal Company. This Modpack offers a unique combination of mods that enhance gameplay, introduce new features and challenges, and expand the game's universe. Get ready for an engaging and dynamic experience as you explore all the possibilities that this modpack provides.
 
@@ -15,31 +15,53 @@ Make sure you have the BepInEx Mod Manager installed before downloading the modp
 1. Go to [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases) on Github and download the latest release.
    * Or, [download it automatically.](https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip)
 2. Extract the archive into a folder. **Do not extract into the game folder.**
-3. Move the contents of BepInExPack folder into the game folder. [*Where is the game folder located?*](https://steamcommunity.com/app/1966720/discussions/0/4038103329141387869)
+3. Move the contents of BepInExPack folder into the game folder.
+   *  Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Lethal Company```
 4. Run the game. If everything runs correctly, you will see BepInEx console pop up on your desktop.
 
 
 ## ModPack Installation
 
-1. Go to [Cypher Releases](https://github.com/BepInEx/BepInEx/releases)
+1. Go to [Releases](https://github.com/beckerfelipee/GreatCompany---Lethal-Company-ModPack/releases).
+  
+    * Find the latest Version and go to Assets.
 
-2. Open your mod launcher and select the correct profile.
+    * Download the ```GreatCompany.~version.zip``` file.
 
-3. Install Forge or Fabric if not already installed.
+2. Open the game folder
+   *  Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Lethal Company```
 
-4. Navigate to the game's mod folder and place the Modpack file there.
+3. Replace the existing BepInEx folder with the new one (in the zip file).
 
-5. Start the game and enjoy the enhanced experience!
+<img height="100" width="600" src="https://cdn.discordapp.com/attachments/896421524200914954/1190816177962893425/Screenshot_2023-12-31_003650.png?ex=65a32cfd&is=6590b7fd&hm=6da31650072b5849ff9ee84bb72ed6e9ab94a7f176e34053921d4d4ffc188922&">
 
 ## Included Mods
 
-- **[Mod 1 Name](mod1_link)**: Brief description of Mod 1.
+- **BetterSprayPaint** - More responsive and reliable painting
 
-- **[Mod 2 Name](mod2_link)**: Brief description of Mod 2.
+- **CustomBoomboxTracks** - Play any music on the Boombox (Custom songs folder)
 
-- **[Mod 3 Name](mod3_link)**: Brief description of Mod 3.
+- **CustomSounds** - replace any in game audio clip (CustomSounds folder)
 
-- ...
+- **FairAI** - Monsters can also trigger landmines and Turrets
+
+- **FovAdjust** - Adjust your Fov using in game chat (eg. /fov 95)
+
+- **ItemQuickSwitch** - You can switch through items using keyboard numbers
+
+- **LethalProgression** - Skills leveling system
+
+- **MoreCompany** - A stable lobby player count expansion mod
+
+- **MoreSuits** - Adds more suits to choose from
+
+- **ShipLoot** - Shows the total value of all scrap in your ship.
+
+- **SkinwalkerMod** - The monsters can mimic the voices of your friends.
+
+- **TooManyEmotes** - Adds over 100 new emotes with a system for purchasing them on the store
+
+- And More!..
 
 We've carefully added a selection of mods that complement and enhance gameplay, providing a unique experience for players.
 
