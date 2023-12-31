@@ -10,7 +10,7 @@ Welcome to the CustomCompany Modpack for the game Lethal Company! This modpack h
 
 Make sure you have the BepInEx Mod Manager installed before downloading the modpack
 
-#### How to Install BepInEx?
+How to Install BepInEx?
 
 1. Go to [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases) on Github and download the latest release.
    * Or, [download it automatically.](https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip)
@@ -33,7 +33,7 @@ Make sure you have the BepInEx Mod Manager installed before downloading the modp
 
 3. Replace the existing BepInEx folder with the new one (in the zip file).
 
-<img height="100" width="600" src="https://cdn.discordapp.com/attachments/896421524200914954/1190816177962893425/Screenshot_2023-12-31_003650.png?ex=65a32cfd&is=6590b7fd&hm=6da31650072b5849ff9ee84bb72ed6e9ab94a7f176e34053921d4d4ffc188922&">
+    * <img height="25" width="150" src="https://cdn.discordapp.com/attachments/896421524200914954/1190816177962893425/Screenshot_2023-12-31_003650.png?ex=65a32cfd&is=6590b7fd&hm=6da31650072b5849ff9ee84bb72ed6e9ab94a7f176e34053921d4d4ffc188922&">
 
 ## Included Mods
 
@@ -64,9 +64,10 @@ Make sure you have the BepInEx Mod Manager installed before downloading the modp
 - And More!..
 
 We've carefully added a selection of mods that complement and enhance gameplay, providing a unique experience for players.
+All mods have been meticulously configured and customized to ensure a more enjoyable, stable experience without compromising the balance of the game. 
 
 ## Contribution
 
 If you have suggestions for additional mods or encounter issues, feel free to open an issue or contribute directly to this modpack.
 
-Enjoy playing with the Lethal Company Modpack!
+Enjoy playing!
