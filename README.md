@@ -59,7 +59,7 @@ How to Install BepInEx?
 
 - **TooManyEmotes** - Adds over 100 new emotes with a system for purchasing them on the store
 
-- And More!..
+- New Moons, Interiors and more!..
 
 We've carefully added a selection of mods that complement and enhance gameplay, providing a unique experience for players.
 All mods have been meticulously configured and customized to ensure a more enjoyable, stable experience without compromising the balance of the game. 
