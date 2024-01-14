@@ -33,7 +33,7 @@ How to Install BepInEx?
 
 3. Replace the existing BepInEx folder with the new one (in the zip file).
     * Attention: Always delete the existing folder before replacing it with the new one to avoid remnants of old versions
-      * (which may cause errors).
+      * (which may cause several errors).
 
 ## Included Mods
 
