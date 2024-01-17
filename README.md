@@ -62,12 +62,14 @@ How to Install BepInEx?
 
 - **TooManyEmotes** - Adds over 100 new emotes with a system for purchasing them on the store
 
-- New Moons, Interiors and more!..
+- **Authoral Mods** - New textures and sounds!
+
+- **And more!** - New moon, interiors, items, scraps, monsters and 3D Models!
 
 We've carefully added a selection of mods that complement and enhance gameplay, providing a unique experience for players.
 All mods have been meticulously configured and customized to ensure a more enjoyable, stable experience without compromising the balance of the game. 
 
-### Latest Version: [v.2.3.0](https://github.com/beckerfelipee/CustomCompany-LethalCompany-ModPack/releases/tag/v2.3.0)
+### Latest Version: [v.2.4.0](https://github.com/beckerfelipee/CustomCompany-LethalCompany-ModPack/releases/tag/v2.4.0)
 
 ## Contribution
 
