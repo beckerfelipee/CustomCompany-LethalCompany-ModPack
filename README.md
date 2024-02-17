@@ -46,7 +46,7 @@ How to Install BepInEx?
 
 - **FairAI** - Monsters can also trigger landmines and Turrets
 
-- **FovAdjust** - Adjust your Fov using in game chat (eg. /fov 95)
+- **MotionSway** - Adjust your Fov in the configfile
 
 - **ItemQuickSwitch** - You can switch through items using keyboard numbers
 
