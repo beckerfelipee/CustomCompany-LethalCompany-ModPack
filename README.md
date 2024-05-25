@@ -48,8 +48,6 @@ How to Install BepInEx?
 
 - **MotionSway** - Adjust your Fov in the configfile
 
-- **ItemQuickSwitch** - You can switch through items using keyboard numbers
-
 - **LethalProgression** - Skills leveling system
 
 - **MoreCompany** - A stable lobby player count expansion mod
