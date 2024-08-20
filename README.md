@@ -48,7 +48,7 @@ How to Install BepInEx?
 
 - **MotionSway** - Adjust your Fov in the configfile
 
-- **LethalProgression** - Skills leveling system
+<!-- - **LethalProgression** - Skills leveling system -->
 
 - **MoreCompany** - A stable lobby player count expansion mod
 
@@ -56,18 +56,18 @@ How to Install BepInEx?
 
 - **ShipLoot** - Shows the total value of all scrap in your ship.
 
-- **SkinwalkerMod** - The monsters can mimic the voices of your friends.
+<!-- - **SkinwalkerMod** - The monsters can mimic the voices of your friends. -->
 
-- **TooManyEmotes** - Adds over 100 new emotes with a system for purchasing them on the store
+<!-- - **TooManyEmotes** - Adds over 100 new emotes with a system for purchasing them on the store -->
 
 - **Authoral Mods** - New textures and sounds!
 
-- **And more!** - New moon, interiors, items, scraps, monsters and 3D Models!
+- **And more!** <!-- - New moon, interiors, items, scraps, monsters and 3D Models! -->
 
 We've carefully added a selection of mods that complement and enhance gameplay, providing a unique experience for players.
 All mods have been meticulously configured and customized to ensure a more enjoyable, stable experience without compromising the balance of the game. 
 
-### Latest Version: [v3.0.0](https://github.com/beckerfelipee/CustomCompany-LethalCompany-ModPack/releases/tag/v3.0.0)
+### Latest Version: [v3.1.0](https://github.com/beckerfelipee/CustomCompany-LethalCompany-ModPack/releases/tag/v3.1.0)
 
 ## Contribution
 
