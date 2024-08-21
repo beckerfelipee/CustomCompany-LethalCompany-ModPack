@@ -14,7 +14,7 @@ How to Install BepInEx?
 
 1. Go to [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases) on Github and download the latest release.
    * Or, [download it automatically.](https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip)
-2. Extract the archive into a folder. **Do not extract into the game folder.**
+2. Extract the archive.
 3. Move the contents of BepInExPack folder into the game folder.
    *  Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Lethal Company```
 4. Run the game. If everything runs correctly, you will see BepInEx console pop up on your desktop.
