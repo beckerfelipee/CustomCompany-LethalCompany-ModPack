@@ -27,6 +27,9 @@ How to Install BepInEx?
     * Find the latest Version and go to Assets.
 
     * Download the ```CustomCompany.~version.zip``` file.
+      
+   ![image](https://github.com/user-attachments/assets/0850b5a4-d1fb-4f38-bafd-18ab82e0fe35)
+
 
 2. Open the game folder
    *  Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Lethal Company```
