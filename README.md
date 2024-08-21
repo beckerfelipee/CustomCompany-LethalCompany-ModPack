@@ -4,7 +4,7 @@
 
 Welcome to the CustomCompany Modpack for the game Lethal Company! This modpack has been carefully curated to enhance the gaming experience by adding a variety of mods that complement and expand upon the features of Lethal Company. This Modpack offers a unique combination of mods that enhance gameplay, introduce new features and challenges, and expand the game's universe. Get ready for an engaging and dynamic experience as you explore all the possibilities that this modpack provides.
 
-## How to setup (Manually - Automatic setup in progress)
+## How to setup
 
 ### BepInEx Requirement
 
