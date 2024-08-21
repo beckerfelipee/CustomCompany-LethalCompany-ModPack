@@ -34,7 +34,7 @@ How to Install BepInEx?
 2. Open the game folder
    *  Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Lethal Company```
 
-3. **Delete** the current BepInEx folder to remove remnants of old versions
+3. **DELETE** the current BepInEx folder to remove remnants of old versions
     * ⚠️ this is crucial to prevent potential errors
 
 4. Replace it with the new BepInEx folder from the zip file.
