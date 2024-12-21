@@ -12,7 +12,7 @@ Make sure you have the BepInEx Mod Manager installed before downloading the modp
 
 How to Install BepInEx?
 
-1. Go to [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases) on Github and download the latest release.
+1. Go to [BepInEx Releases](https://github.com/BepInEx/BepInEx/releases) on Github and download the [v5.4.22](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22) version.
    * Or, [download it automatically.](https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip)
 2. Extract the archive.
 3. Move the contents of BepInExPack folder into the game folder.
