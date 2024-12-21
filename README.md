@@ -17,7 +17,7 @@ How to Install BepInEx?
 2. Extract the archive.
 3. Move the contents of BepInExPack folder into the game folder.
    *  Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Lethal Company```
-4. Run the game. If everything runs correctly, you will see BepInEx console pop up on your desktop.
+4. Run the game.
 
 
 ## ModPack Installation
