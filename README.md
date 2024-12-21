@@ -41,7 +41,7 @@ How to Install BepInEx?
 
 ## Included Mods
 
-- **BetterSprayPaint** - More responsive and reliable painting
+<!--- **BetterSprayPaint** - More responsive and reliable painting -->
 
 - **CustomBoomboxTracks** - Play any music on the Boombox (Custom songs folder)
 
@@ -49,7 +49,7 @@ How to Install BepInEx?
 
 - **FairAI** - Monsters can also trigger landmines and Turrets
 
-- **MotionSway** - Adjust your Fov in the configfile
+<!-- - **MotionSway** - Adjust your Fov in the configfile -->
 
 <!-- - **LethalProgression** - Skills leveling system -->
 
@@ -61,7 +61,7 @@ How to Install BepInEx?
 
 <!-- - **SkinwalkerMod** - The monsters can mimic the voices of your friends. -->
 
-<!-- - **TooManyEmotes** - Adds over 100 new emotes with a system for purchasing them on the store -->
+- **TooManyEmotes** - Adds over 100 new emotes with a system for purchasing them on the store
 
 - **Authoral Mods** - New textures and sounds!
 
