@@ -49,7 +49,7 @@ How to Install BepInEx?
 
 - **FairAI** - Monsters can also trigger landmines and Turrets
 
-- **MotionSway** - Adjust your Fov in the configfile
+- **MotionSway** - Adjust your Fov in the config file
 
 - **LethalProgression** - Skills leveling system
 
