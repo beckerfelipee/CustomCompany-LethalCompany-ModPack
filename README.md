@@ -49,9 +49,9 @@ How to Install BepInEx?
 
 - **FairAI** - Monsters can also trigger landmines and Turrets
 
-<!-- - **MotionSway** - Adjust your Fov in the configfile -->
+- **MotionSway** - Adjust your Fov in the configfile
 
-<!-- - **LethalProgression** - Skills leveling system -->
+- **LethalProgression** - Skills leveling system
 
 - **MoreCompany** - A stable lobby player count expansion mod
 
