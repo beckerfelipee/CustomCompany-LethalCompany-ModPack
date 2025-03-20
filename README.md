@@ -68,7 +68,7 @@ How to Install BepInEx?
 We've carefully added a selection of mods that complement and enhance gameplay, providing a unique experience for players.
 All mods have been meticulously configured and customized to ensure a more enjoyable, stable experience without compromising the balance of the game. 
 
-### Latest Version: [v4.1.3](https://github.com/beckerfelipee/CustomCompany-LethalCompany-ModPack/releases/tag/v4.1.3)
+### Latest Version: [v4.1.4](https://github.com/beckerfelipee/CustomCompany-LethalCompany-ModPack/releases/tag/v4.1.4)
 
 ## Contribution
 
